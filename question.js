@@ -1,5 +1,6 @@
 var button = document.querySelector("#button");
 var quiz = document.querySelector("#quiz");
+var hscore = document.querySelector("#score");
 
 button.addEventListener("click", run);  
   
@@ -40,3 +41,9 @@ for (var i=0; i < questions.length; i++){
     }
 alert("You Got" + score + "/" + questions.length);
 };
+
+hscore = score + "/";
+    
+    
+     
+

@@ -1,3 +1,3 @@
-# Homework4
-Homework 4
-Redone.
+Quiz
+
+As I proceed in my career as a web developer, I will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. This app runs in the browser and features dynamically updated HTML and CSS powered by my JavaScript code. It also features a clean and polished user interface and is responsive, ensuring that it adapts to multiple screen sizes.
